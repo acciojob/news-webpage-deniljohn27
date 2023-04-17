@@ -5,10 +5,13 @@ section{
 img{
 	height:100px;
 }
+header{
+	text-align:center;
+}
 .heading{
 	background-color: #011e29;
 	color:white;
-	text-align:center;
+	
 	margin:10px;
 	padding:5px;
 }
@@ -19,10 +22,11 @@ img{
 	justify-content:space-between;
 	align-items:flex-start;
 }
-.atest-news-section,.main-articles,.pictorial-news-section{
+.latest-news-section,.main-articles,.pictorial-news-section{
 	background-color:white;
 	border-radius:20px;
 	padding:10px;
+	text-align:center;
 	
 }
 .pictorial-news-section{
