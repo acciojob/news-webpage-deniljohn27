@@ -19,17 +19,14 @@ img{
 	justify-content:space-between;
 	align-items:flex-start;
 }
-.articles,.main-articles,.pictures{
+.atest-news-section,.main-articles,.pictorial-news-section{
 	background-color:white;
 	border-radius:20px;
 	padding:10px;
 	
 }
-.pictures{
+.pictorial-news-section{
 	display:flex;
 	flex-direction:column;
 	gap:10px;
-}
-.articles{
-	
 }
